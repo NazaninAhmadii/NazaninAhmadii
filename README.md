@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Noz 👋</h1>
+<h1 align="center">Hi, I'm Nazanin 👋</h1>
 
 <p align="center">
   Full Stack Developer | JavaScript & TypeScript Enthusiast | Exploring Generative AI
@@ -35,9 +35,9 @@ Lately, I've been exploring **Next.js**, **Nest.js**, and diving into the world 
 
 ### 📫 Connect With Me
 
-- LinkedIn: [your-link-here]
-- Portfolio: [your-site-link]
-- Email: [your-email]
+- LinkedIn: [[my-LinkedIn](https://www.linkedin.com/in/nazaninahmadi/)]
+- Portfolio: [https://www.nazaninahmadi.dev/]
+- Email: [Nazaninpolite@gmail.com]
 
 ---
 
