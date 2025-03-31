@@ -35,9 +35,9 @@ Lately, I've been exploring **Next.js**, **Nest.js**, and diving into the world 
 
 ### 📫 Connect With Me
 
-- LinkedIn: [[my-LinkedIn](https://www.linkedin.com/in/nazaninahmadi/)]
-- Portfolio: [https://www.nazaninahmadi.dev/]
-- Email: [Nazaninpolite@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/nazaninahmadi
+- Portfolio: https://www.nazaninahmadi.dev
+- Email: Nazaninpolite@gmail.com
 
 ---
 
