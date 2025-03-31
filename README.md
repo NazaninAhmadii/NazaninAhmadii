@@ -10,13 +10,13 @@
 
 I'm a Full Stack Developer focused on building clean, scalable web applications using modern technologies like React, Node.js, and GraphQL. I care about developer experience, thoughtful design, and continuous learning.
 
-Lately, I've been exploring **Next.js**, **Nest.js**, and diving into the world of **Generative AI**, combining full stack development with AI-powered tools and APIs.
+Lately, I've been exploring **Next.js**, **Nest.js**, and **Micro Frontend architecture** to build modular and maintainable applications. I'm also diving into **Generative AI**, combining full stack skills with AI-powered tools and APIs.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
+- **Frontend:** React, Next.js, Micro Frontends, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Express, Nest.js, GraphQL, REST APIs  
 - **Database:** SQL Server, PostgreSQL, MongoDB  
 - **Tools:** Git, Docker, Vercel, Postman  
@@ -27,9 +27,7 @@ Lately, I've been exploring **Next.js**, **Nest.js**, and diving into the world 
 ### 📌 Current Goals
 
 - Build AI-integrated full stack apps
-- Sharpen backend architecture with Nest.js
-- Practice system design + interview prep
-- Refresh portfolio with recent projects
+- Learn and apply Micro Frontend patterns  
 
 ---
 
